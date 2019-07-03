@@ -1,0 +1,31 @@
+.blist_p2 {
+    padding: 0
+}
+
+.blist_p2 li {
+    clear: none;
+    float: left;
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    margin-right: 0;
+}
+
+.blist_p2 li a {
+    display: inline-block;
+    height: 34px;
+    width: 100px;
+    line-height: 34px;
+    text-align: center;
+    margin: 0 0 15px 0;
+    border-radius: 5px;
+    border: 1px solid #bbb;
+    color: #333;
+    overflow: hidden;
+    font-size: 16px;
+}
+
+.nav2.tab3 a {
+    width: 33.3%;
+}

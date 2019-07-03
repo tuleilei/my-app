@@ -1,0 +1,24 @@
+.alist_p1 li a {
+    height: 50px
+}
+
+.alist_p1 .detail {
+    height: 50px;
+    overflow: hidden;
+    line-height: 50px;
+}
+
+.alist_p1 h2 {
+    overflow: visible;
+    text-overflow: clip;
+    white-space: normal;
+    font-size: 20px
+}
+
+.nav3 h2 {
+    font-size: 24px
+}
+
+.nav3 span a:last-child {
+    padding: 0 10px
+}
