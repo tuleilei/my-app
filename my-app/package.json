@@ -5,7 +5,7 @@
   "dependencies": {
     "amazeui-react": "^1.2.3",
     "antd": "^3.19.8",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
